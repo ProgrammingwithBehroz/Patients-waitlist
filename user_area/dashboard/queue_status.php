@@ -1,4 +1,6 @@
 <?php
+include "../../includes/auth_check_patient.php";
+
 $select_absences = "SELECT * from doctor_absences where absence_date >= CURDATE()";
 $result_absences = mysqli_query($conn,$select_absences);
 $now = date('y-m-d');
