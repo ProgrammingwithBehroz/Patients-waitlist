@@ -1,5 +1,6 @@
-
 <?php
+include "../../includes/auth_check_patient.php";
+
 $select_doctors = "SELECT * from doctors_table";
 $result = mysqli_query($conn,$select_doctors);
 $num = 0;
