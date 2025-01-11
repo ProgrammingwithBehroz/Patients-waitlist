@@ -25,7 +25,7 @@ if($_GET['lang'] == 'fa'){
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>کلینک درمانی ابلی سینا</title>
+  <title>کلینک درمانی ابن سینا</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -95,7 +95,7 @@ if($_GET['lang'] == 'fa'){
     <a href="index.html" class="logo d-flex align-items-center">
       <!-- Uncomment the line below if you also wish to use an image logo -->
       <!-- <img src="assets/img/logo.png" alt=""> -->
-      <h1 class="sitename">کلینیک درمانی ابلی سینا</h1>
+      <h1 class="sitename">کلینیک درمانی ابن سینا</h1>
     </a>
 
     <nav id="navmenu" class="navmenu">
