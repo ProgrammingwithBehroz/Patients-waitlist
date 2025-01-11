@@ -1,5 +1,6 @@
 <?php
 include "../../includes/connection.php";
+include "../../includes/auth_check_patient.php";
 session_start();
 ?>
 
