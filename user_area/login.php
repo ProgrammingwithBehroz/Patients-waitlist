@@ -97,8 +97,6 @@ if(isset($_POST['login'])){
         <li><a href="#about" class="active">درباره ما</a></li>
         <li><a href="#services" class="active">خدمات</a></li>
         <li><a href="#contact" class="active">تماس با ما</a></li>
-        <li><a href="./user_area/registration.php" class="active">ثبت نام </a></li>
-        <li><a href="#" class="active">ورود</a></li>
       </ul>
       <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
     </nav>
