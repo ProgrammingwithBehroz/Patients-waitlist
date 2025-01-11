@@ -1,9 +1,7 @@
 <?php
-
-
-
 if(isset($_POST['absence'])){
-
+include "../../includes/auth_check_doctor.php";
+    
     $user_id = $_SESSION['user_id'];
     $date = $_POST['date'];
     $reason = $_POST['reason'];
