@@ -82,7 +82,7 @@ session_start();
     <a href="index.html" class="logo d-flex align-items-center">
       <!-- Uncomment the line below if you also wish to use an image logo -->
       <!-- <img src="assets/img/logo.png" alt=""> -->
-      <h1 class="sitename">کلینیک درمانی ابلی سینا</h1>
+      <h1 class="sitename">کلینیک درمانی ابن سینا</h1>
     </a>
 
     <nav id="navmenu" class="navmenu">
