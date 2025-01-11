@@ -1,4 +1,5 @@
 <?php
+include "../../includes/auth_check_patient.php";
 if(isset($_POST['add_patient'])) {
 $full_name = $_POST['full_name'];
 $number = $_POST['phone'];
