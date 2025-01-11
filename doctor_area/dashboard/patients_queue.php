@@ -1,3 +1,6 @@
+<?php
+include "../../includes/auth_check_doctor.php";
+?>
 <div class="card" dir="rtl">
               <!-- /.card-header -->
               <div class="card-body">
