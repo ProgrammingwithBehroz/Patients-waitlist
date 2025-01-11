@@ -1,4 +1,5 @@
 <?php
+include "../../includes/auth_check_patient.php";
 
 $user_id = $_SESSION['user_id'];
 $select = "SELECT * from users_table where user_id = $user_id";
