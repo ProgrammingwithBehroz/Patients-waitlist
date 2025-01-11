@@ -1,3 +1,6 @@
+<?php
+include "../../includes/auth_check_doctor.php";
+?>
 <div class="card" dir="rtl">
               <div class="card-body">
                 <div id="example1_wrapper" class="dataTables_wrapper dt-bootstrap4"><div class="row"><div class="col-lg-12 col-md-6">
