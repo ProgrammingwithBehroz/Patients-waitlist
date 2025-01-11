@@ -1,5 +1,6 @@
 <?php
 include "../../includes/connection.php";
+include "../../includes/auth_check_patient.php";
 
 if(isset($_GET['appointment_id'])){
     $appointment_id = $_GET['appointment_id'];
