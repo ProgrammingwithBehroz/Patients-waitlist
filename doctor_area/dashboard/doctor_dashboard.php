@@ -1,6 +1,7 @@
 <?php
-include "../../includes/connection.php";
 session_start();
+include "../../includes/connection.php";
+include "../../includes/auth_check_doctor.php";
 ?>
 
 <html lang="en">
