@@ -1,6 +1,5 @@
-
-
 <?php
+include "../../includes/auth_check_doctor.php";
 
 $num = 1;
 $user_id = $_SESSION['user_id'];
